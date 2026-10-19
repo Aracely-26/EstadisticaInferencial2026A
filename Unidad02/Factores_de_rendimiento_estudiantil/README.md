@@ -22,5 +22,3 @@
 | **Distance_from_Home** | Distancia de la casa a la escuela (Near, Moderate, Far). |
 | **Gender** | Género del estudiante (Male, Female). |
 | **Exam_Score** | Calificación final del examen. |
-
-Si lo prefieres, puedo agruparlas por tipo (numéricas vs. categóricas) o traducir también los nombres de las columnas al español.
